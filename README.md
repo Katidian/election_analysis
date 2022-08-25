@@ -27,7 +27,9 @@ turnout, as measured by total number of votes and percentage of total votes cast
     - Raymon Anthony Doane received 3.1% of the vote with 11,606 votes.
 - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote with 272,892 votes.
-  
+
+![Screenshot of script output printed to the terminal](terminal_output.png)
+
 ## Election Audit Summary
 The script used to conduct this election audit used the following resources:
 - Data source: election_results.csv
