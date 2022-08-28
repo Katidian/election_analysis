@@ -31,7 +31,7 @@ turnout, as measured by total number of votes and percentage of total votes cast
 ![Screenshot of script output printed to the terminal](terminal_output.png)
 
 ## Election Audit Summary
-The script used to conduct this election audit used the following resources:
+[Here is the script used to conduct this election audit](analysis/PyPollChallenge.py). It used the following resources:
 - Data source: election_results.csv
 - Software: Python 3.10.5, Visual Studio Code 1.70.2
 
