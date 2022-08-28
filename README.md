@@ -10,7 +10,7 @@ election — Arapahoe, Denver and Jefferson — as well as the percentage of tot
 turnout, as measured by total number of votes and percentage of total votes cast.
 
 ## Election Audit Results
-- Our analysis of the election shows that:
+- Our analysis of the election, [also available in a text file here](analysis/election_analysis.txt), shows that:
     - There were 369,711 votes cast in the election.
 - Votes were cast in three counties:
     - Jefferson: 10.5% (38,855)
